@@ -1,0 +1,2 @@
+# LearnGitKP
+latihan Pintar 
